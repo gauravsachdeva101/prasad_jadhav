@@ -1,0 +1,131 @@
+.bg-image{
+    background: transparent url('images/pathh.png') 0% 0% no-repeat padding-box;
+    background-repeat: no-repeat;
+    /* height: 2000px; */
+    background-size: contain;
+    background-position: center center;
+    position:relative;
+  } 
+.outter{
+    font: normal normal bold 10px Raleway;
+    letter-spacing: 0px;
+    color: #1C1A1A;
+    background-color: #F6F6F6;
+    opacity: 1;
+    text-align: center;
+ }
+ .name{
+    /* margin-top: 3px; */
+    /* top: 73px; */
+    /* left: 140px; */
+    /* width: 321px; */
+    height: 47px;
+    padding-top: 10px;
+    padding-left: 3.5px;
+    /* padding-bottom: 4px; */
+    /* text-align: left; */
+    font: normal normal bold 20px Raleway;
+    letter-spacing: 0px;
+    color: #1C1A1A;
+    opacity: 1;
+}
+.nav_element{
+    padding-left: 0px !important;;
+    padding-right: 0px !important;;
+    margin-right: 0 !important;;
+    margin-left: 0 !important;;
+    top: 73px;
+    left: 1059px;
+    /* width: 224px; */
+    height: 47px;
+    font: normal normal bold 21px Raleway;
+    letter-spacing: 0px;
+    color: #1C1A1A;
+    opacity: 1;
+}
+.nav-item{
+    padding-left: 10px !important;;
+    padding-right: 10px !important;;
+    margin-right: 0 !important;;
+    margin-left: 0px !important;;
+}
+.div1{
+    border-top: 1px solid #EFEBEB;
+    /* border-bottom: 1px solid #EFEBEB; */
+    height: 420px; 
+}
+
+.ccc{
+    padding: 0px;
+    padding-top: 36px;
+    padding-left: 25px;
+}
+
+.one{
+    padding-left: 25px;
+    padding-right: 30px;
+    margin-right: 25px;
+    text-align: left;
+    font: normal normal normal 20px Merriweather;
+    letter-spacing: 0px;
+    color: #4B4B4B;
+    opacity: 1;
+}
+.header{
+    text-align: left;
+    font: normal normal 600 33px Poppins;
+    letter-spacing: 0px;
+    color: #434242;
+    opacity: 1;
+}
+.div2{
+    margin-left: 20px;
+    padding-left: 45px;
+    margin-right: 20px;
+}
+.header2{
+    text-align: left;
+    font: normal normal 600 25px Poppins;
+    letter-spacing: 0px;
+    color: #434242;
+    opacity: 1;
+}
+.data1{
+    text-align: left;
+    font: normal normal normal 20px Poppins;
+    letter-spacing: 0px;
+    color: #434242;
+    opacity: 1;
+}
+.data2{
+    text-align: left;
+    font: italic normal 300 20px Poppins;
+    letter-spacing: 0px;
+    color: #434242;
+    opacity: 1;
+}
+.div3{
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 29px;
+}
+.butts{
+    background: #474545 0% 0% no-repeat padding-box;
+    border-radius: 27px;
+    opacity: 1;
+    margin: 5px;
+    height: 40px;
+}
+.insidebutts{
+    text-align: left;
+    font: normal normal normal 15px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    padding: 40px;
+}
+.date{
+    text-align: left;
+    align-items: left;
+    justify-content: left;
+}
